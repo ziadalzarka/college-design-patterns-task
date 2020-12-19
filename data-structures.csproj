@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>data_structures</RootNamespace>
+    <StartupObject>data_structures.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
