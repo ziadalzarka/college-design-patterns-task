@@ -1,6 +1,6 @@
 using System;
 
-namespace data_structures.ProxyPattern
+namespace design_patterns.ProxyPattern
 {
   // The Subject interface declares common operations for both RealSubject and
   // the Proxy. As long as the client works with RealSubject using this

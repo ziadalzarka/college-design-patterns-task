@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading;
 
-namespace data_structures.ObserverPattern
+namespace design_patterns.ObserverPattern
 {
   public interface IObserver
   {

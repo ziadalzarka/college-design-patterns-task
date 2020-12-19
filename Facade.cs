@@ -1,6 +1,6 @@
 using System;
 
-namespace data_structures.FacadePattern
+namespace design_patterns.FacadePattern
 {
   // The Facade class provides a simple interface to the complex logic of one
   // or several subsystems. The Facade delegates the client requests to the

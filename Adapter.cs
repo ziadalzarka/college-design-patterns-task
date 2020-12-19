@@ -1,6 +1,6 @@
 using System;
 
-namespace data_structures.AdapterPattern
+namespace design_patterns.AdapterPattern
 {
   // The Target defines the domain-specific interface used by the client code.
   public interface ITarget
